@@ -1,0 +1,15 @@
+/* Sobre.module.css */
+.sobre {
+    padding: 20px;
+    background-color: #e4e4e4;
+    color: #333;
+}
+
+.sobre h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.sobre p {
+    font-size: 1.2em;
+}

@@ -1,0 +1,15 @@
+/* Contato.module.css */
+.contato {
+    padding: 20px;
+    background-color: #c4c4c4;
+    color: #333;
+}
+
+.contato h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.contato p {
+    font-size: 1.2em;
+}

@@ -1,0 +1,15 @@
+/* Servicos.module.css */
+.servicos {
+    padding: 20px;
+    background-color: #d4d4d4;
+    color: #333;
+}
+
+.servicos h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.servicos p {
+    font-size: 1.2em;
+}
